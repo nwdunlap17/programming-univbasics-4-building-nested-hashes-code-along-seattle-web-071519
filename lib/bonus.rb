@@ -28,4 +28,4 @@ def bonus
   epic_tragedy
 end
 
-print bonus[]
+print bonus[:montague][:hero][:status]
